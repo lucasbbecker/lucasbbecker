@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Becker Barbosa Lima, tenho 26 anos e sou natural de Curitiba/PR. Concluí o ensino médio no IFC - Araquari, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter.
+Me chamo Lucas Becker Barbosa Lima, tenho 27 anos e sou natural de Curitiba/PR. Concluí o ensino médio no IFC - Araquari, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lucasbeckerlima">
